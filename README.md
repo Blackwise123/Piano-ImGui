@@ -45,8 +45,10 @@ username:s
 password:s
 
 # Screenshots
-![image](https://github.com/user-attachments/assets/62da8e95-888b-4628-acd2-15538b92d66e)
-![image](https://github.com/user-attachments/assets/dc659d82-9f11-4310-a8c1-c0a304f808cc)
+![image](https://github.com/user-attachments/assets/89808b90-9cda-40eb-b14f-af69c74927b9)
+
+![image](https://github.com/user-attachments/assets/4d46c506-b855-4058-9298-b470deaca809)
+
 
 # Future Development
 - Show music sheet
