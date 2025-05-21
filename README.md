@@ -30,12 +30,9 @@ The app uses sdl_mixer, SDL and ImGui to help create user friendly app. It has f
 
 git clone https://github.com/Blackwise123/Piano-Imgui
 
-## Build using CMake
+## Build using VS
+use x64 release
 
-mkdir build
-cd build
-cmake ..
-make
 
 ## Run the application
 
