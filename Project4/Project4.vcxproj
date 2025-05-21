@@ -263,7 +263,7 @@
     <ClInclude Include="include\sdl\SDL_vulkan.h" />
   </ItemGroup>
   <ItemGroup>
-    <Library Include="..\..\..\..\OneDrive\Past work\Desktop\SDL2_mixer.lib" />
+    <Library Include="lib\x64\SDL2_mixer.lib" />
     <Library Include="lib\x64\SDL2.lib" />
     <Library Include="lib\x64\SDL2main.lib" />
     <Library Include="lib\x64\SDL2test.lib" />
