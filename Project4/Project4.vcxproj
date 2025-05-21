@@ -110,9 +110,8 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
      <PostBuildEvent>
-        <Command>
-         xcopy /y /d "$(ProjectDir)SDL2.dll" "$(OutDir)"
-         xcopy /y /d "$(ProjectDir)SDL2_mixer.dll" "$(OutDir)"
+        <Command>xcopy /y /d "$(ProjectDir)SDL2.dll" "$(OutDir)"
+xcopy /y /d "$(ProjectDir)SDL2_mixer.dll" "$(OutDir)"
         </Command>
     </PostBuildEvent>
   </ItemDefinitionGroup>
